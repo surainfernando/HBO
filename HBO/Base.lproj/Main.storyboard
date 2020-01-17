@@ -46,7 +46,9 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="pJJ-cA-dBs"/>
                                 </constraints>
-                                <string key="text">Please enter your information below.  Your email address and your passwrd will become a part of your HBO profile</string>
+                                <string key="text">Please enter your information below.  
+Your email address and your passwrd
+ will become a part of your HBO profile</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
@@ -111,7 +113,7 @@
                                 </constraints>
                                 <state key="normal">
                                     <attributedString key="attributedTitle">
-                                        <fragment content="Register for HBO Now">
+                                        <fragment content="Register for HBO Now!">
                                             <attributes>
                                                 <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="17" name="Arial-Black"/>
